@@ -120,7 +120,7 @@ const GetInTouch = () => {
 
           {/* Form */}
           <div>
-            <form className="max-w-md p-4 bg-white shadow-md rounded-lg ">
+            <form className="max-w-md p-4  shadow-md rounded-lg relative">
               <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
               <div className="mb-4">
                 <label
