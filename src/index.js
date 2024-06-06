@@ -3,11 +3,25 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Navbar from './component/header/header';
+import Hero from './component/hero/hero';
+import Main from './component/main/main';
+import More from './component/More/More';
+import About from './component/about/about';
+import GetInTouch from './component/GTI/GetInTouch';
+import Footer from './component/footer/footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <Navbar />
+    <Hero />
+    <Main />
+    <More />
+    <About />
+    <GetInTouch />
+    <Footer />
   </React.StrictMode>
 );
 
