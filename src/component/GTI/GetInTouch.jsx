@@ -12,7 +12,7 @@ const GetInTouch = () => {
     },
     {
       image: "https://qph.cf2.quoracdn.net/main-thumb-192140800-50-xmhpegphfysvmjjwxliupjijbjdrgmkq.jpeg",
-      text: " don’t go to Jakarta International School but I do go to an International school in the Jabodetabek area and personally I feel like our point of views are broadened and I feel like we also have a more liberal viewpoint on issues such as sexuality, equality and politics I guess.",
+      text: " I don’t go to Jakarta International School but I do go to an International school in the Jabodetabek area and personally I feel like our point of views are broadened and I feel like we also have a more liberal viewpoint on issues such as sexuality, equality and politics I guess.",
       name: "Adny Dias",
     },
     {
@@ -120,7 +120,7 @@ const GetInTouch = () => {
 
           {/* Form */}
           <div>
-            <form className="max-w-md p-4  shadow-md rounded-lg relative">
+            <form className="max-w-md p-4  shadow-md rounded-lg relative mx-auto"  id="contact">
               <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
               <div className="mb-4">
                 <label

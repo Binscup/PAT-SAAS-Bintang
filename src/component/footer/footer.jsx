@@ -202,22 +202,22 @@ function Footer() {
             <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
               <li>
                 <a href="#" class="hover:underline me-4 md:me-6">
+                  Home
+                </a>
+              </li>
+              <li>
+                <a href="#" class="hover:underline me-4 md:me-6">
                   About
                 </a>
               </li>
               <li>
                 <a href="#" class="hover:underline me-4 md:me-6">
-                  Privacy Policy
-                </a>
-              </li>
-              <li>
-                <a href="#" class="hover:underline me-4 md:me-6">
-                  Licensing
+                 Profile
                 </a>
               </li>
               <li>
                 <a href="#" class="hover:underline">
-                  Contact
+                  Life at JIS
                 </a>
               </li>
             </ul>

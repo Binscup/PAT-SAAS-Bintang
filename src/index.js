@@ -5,11 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Navbar from './component/header/header';
 import Hero from './component/hero/hero';
-import Main from './component/main/main';
+import Main from './component/profil/profil';
 import More from './component/More/More';
 import About from './component/about/about';
 import GetInTouch from './component/GTI/GetInTouch';
 import Footer from './component/footer/footer';
+import Profil from './component/profil/profil';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,7 +18,7 @@ root.render(
     <App />
     <Navbar />
     <Hero />
-    <Main />
+    <Profil />
     <More />
     <About />
     <GetInTouch />

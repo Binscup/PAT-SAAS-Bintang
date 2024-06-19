@@ -20,3 +20,8 @@
 .GTI{
   margin-top: -28rem;
 }
+@media screen and (max-width:639px){
+  .GTI{
+    margin-top: 1%;
+  }
+}

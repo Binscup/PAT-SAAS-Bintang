@@ -248,6 +248,16 @@ const Header = () => {
                 Profile
               </a>
             </li>
+            <li>
+              <a
+                href="#more"
+                className={`text-lg font-medium ${
+                  isScrolled ? "text-black" : "text-white"
+                } hover:text-lime-400`}
+              >
+               Life at JIS
+              </a>
+            </li>
           </ul>
         </nav>
         <div>
