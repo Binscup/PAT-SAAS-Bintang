@@ -26,7 +26,7 @@ const Header = () => {
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 lg:px-8 py-4 flex justify-between items-center">
-        <a href="" className="mt-4">
+        <a href="#home" className="mt-4">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="229"
